@@ -1,0 +1,65 @@
+# Site Setup Summary
+
+## Repository Information
+
+Final Repository Name : Vicent0205.github.io
+Full Repository Path  : mcpmark-eval-1031/Vicent0205.github.io
+Repository URL        : https://github.com/mcpmark-eval-1031/Vicent0205.github.io
+Forked From           : academicpages/academicpages.github.io
+
+## Customization Commit
+
+Commit SHA  : bf11dfcc849ce469dee459e15aab88ff76dc266b
+Commit URL  : https://github.com/mcpmark-eval-1031/Vicent0205.github.io/commit/bf11dfcc849ce469dee459e15aab88ff76dc266b
+Commit Msg  : Personalize site for Junteng Liu: update _config.yml and _pages/about.md
+Branch      : master
+Date        : (see commit metadata)
+
+## Files Changed
+
+1. _config.yml
+   - name / title: Junteng Liu
+   - description: first-year PhD candidate at HKUST NLP Group
+   - url: https://Vicent0205.github.io
+   - repository: Vicent0205/Vicent0205.github.io
+   - author.name: Junteng Liu
+   - author.bio: First-year PhD candidate at HKUST NLP Group, advised by
+                 Prof. Junxian He. Research: LLM Reasoning & RL, VLM
+                 Hallucination, LLM Truthfulness & Interpretability.
+   - author.location: Hong Kong, China
+   - author.employer: Hong Kong University of Science and Technology
+   - author.email: jliugi@connect.ust.hk
+   - author.googlescholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ
+   - author.github: Vicent0205
+   - author.twitter: junteng88716710
+   - timezone: Asia/Hong_Kong
+   - Removed placeholders: orcid, pubmed, bluesky defaults
+
+2. _pages/about.md
+   - title: Junteng Liu
+   - Identity: first-year PhD candidate at HKUST NLP Group
+   - Supervisor: Prof. Junxian He
+   - Undergraduate: B.Eng. from SJTU (2020-2024), Zhiyuan Honor Scholarship
+   - Research interests:
+       * LLM Reasoning and Reinforcement Learning
+       * Hallucination in Vision-Language Models (VLMs)
+       * LLM Truthfulness and Interpretability
+   - Experience:
+       * MiniMax (Feb 2025 - Present)
+       * Tencent WXG (Jun-Sep 2024, advisor: Zifei Shan)
+       * Shanghai AI Lab (Jun-Dec 2023, advisor: Prof. Yu Cheng)
+   - Publications:
+       * SynLogic (Arxiv 2025, first author)
+       * Perception Bottleneck of VLMs (Arxiv 2025, first author)
+       * Universal Truthfulness Hyperplane (EMNLP 2024, first author)
+       * In-Context Sharpness (ICML 2024, co-author)
+       * C-Eval (NeurIPS 2023, co-author)
+       * Composing Parameter-Efficient Modules (NeurIPS 2023, co-author)
+   - Contact links: email (mailto), GitHub, Google Scholar, X/Twitter
+
+## Notes
+
+The initial fork to bugmaker00/Vicent0205.github.io was also created but
+could not be modified due to GITHUB_ALLOWED_REPOS configuration restrictions
+on personal repositories. The mcpmark-eval-1031 organization fork was used
+as the accessible alternative.
