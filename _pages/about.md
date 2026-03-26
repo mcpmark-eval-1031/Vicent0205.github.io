@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by Professor [Junxian He](https://jxhe.github.io/). I obtained my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2024, where I was awarded the **Zhiyuan Honor Scholarship** and also fortunate to be advised by Prof. Junxian He during my undergraduate studies.
+I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://nlp.hkust.edu.hk/), [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2024, where I was awarded the **Zhiyuan Honor Scholarship** and was also fortunate to be advised by Prof. Junxian He during my undergraduate studies.
+
+My research lies at the intersection of **natural language processing (NLP)** and **machine learning**, with a focus on understanding and improving the capabilities and reliability of large language models (LLMs) and vision-language models (VLMs).
 
 ## Research Interests
 
-My research focuses on **natural language processing** and **machine learning**, with particular emphasis on:
-
-- **LLM Reasoning and Reinforcement Learning** — Developing methods that enable large language models to reason more reliably and to learn from verifiable feedback at scale (e.g., synthesizing verifiable training data, RL-based training pipelines).
-- **Hallucination in Vision-Language Models (VLMs)** — Understanding and mitigating perception bottlenecks and hallucination phenomena in multimodal models, especially for chart and visual understanding.
-- **LLM Truthfulness and Interpretability** — Probing the internal representations of LLMs to understand how truthfulness is encoded and how models can be made more honest and interpretable.
+- **LLM Reasoning and Reinforcement Learning** — Developing scalable methods to synthesize verifiable reasoning data and enhance logical reasoning capabilities of LLMs through reinforcement learning from verifiable rewards.
+- **Hallucination in Vision-Language Models (VLMs)** — Investigating perception bottlenecks and developing techniques to mitigate hallucination in multimodal understanding tasks such as chart understanding.
+- **LLM Truthfulness and Interpretability** — Studying the internal representations of LLMs to understand truthfulness mechanisms (e.g., universal truthfulness hyperplanes) and developing tools to improve model reliability.
 
 ## News
 
@@ -51,14 +51,28 @@ Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He
 
 ## Education
 
-- **Ph.D. in Computer Science** (2024 – Present), Hong Kong University of Science and Technology
-  - Advisor: Prof. [Junxian He](https://jxhe.github.io/)
-- **B.Eng.** (2020 – 2024), Shanghai Jiao Tong University
-  - *Zhiyuan Honor Scholarship*
+- **Ph.D. in Computer Science** (2024 – Present)  
+  Hong Kong University of Science and Technology (HKUST)  
+  *Advisor: [Prof. Junxian He](https://jxhe.github.io/)*
+
+- **B.Eng.** (2020 – 2024)  
+  Shanghai Jiao Tong University (SJTU)  
+  *Recipient of the Zhiyuan Honor Scholarship*
+
+## Research Experience
+
+- **Research Intern**, MiniMax (February 2025 – Present)  
+  Working on large language model reasoning and reinforcement learning.
+
+- **Research Intern**, Tencent WXG (June 2024 – September 2024)  
+  *Advisor: [Zifei Shan](http://www.zifeishan.org/)* — Research on vision-language models and chart understanding.
+
+- **Research Intern**, Shanghai AI Lab (June 2023 – December 2023)  
+  *Advisor: [Prof. Yu Cheng](https://ych133.github.io/)* — Research on LLM truthfulness and interpretability.
 
 ## Contact
 
-- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
+- **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar**: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X (Twitter)**: [@junteng88716710](https://x.com/junteng88716710)
